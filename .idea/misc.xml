@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AS/Calculator/app/src/main/res/drawable/radius_border.xml" value="0.1675" />
+        <entry key="..\:/AS/Calculator/app/src/main/res/drawable/round_bk_button.xml" value="0.1595" />
+        <entry key="..\:/AS/Calculator/app/src/main/res/drawable/round_bk_pressed_button.xml" value="0.1" />
+        <entry key="..\:/AS/Calculator/app/src/main/res/drawable/round_button.xml" value="0.171" />
+        <entry key="..\:/AS/Calculator/app/src/main/res/drawable/round_gy_button.xml" value="0.1595" />
+        <entry key="..\:/AS/Calculator/app/src/main/res/drawable/round_gy_pressed_button.xml" value="0.138" />
+        <entry key="..\:/AS/Calculator/app/src/main/res/drawable/round_og_button.xml" value="0.1595" />
+        <entry key="..\:/AS/Calculator/app/src/main/res/drawable/round_og_pressed_button.xml" value="0.138" />
+        <entry key="..\:/AS/Calculator/app/src/main/res/drawable/selector_bk_button.xml" value="0.138" />
+        <entry key="..\:/AS/Calculator/app/src/main/res/drawable/selector_button.xml" value="0.1805" />
+        <entry key="..\:/AS/Calculator/app/src/main/res/drawable/selector_gy_button.xml" value="0.138" />
+        <entry key="..\:/AS/Calculator/app/src/main/res/drawable/selector_og_button.xml" value="0.138" />
+        <entry key="..\:/AS/Calculator/app/src/main/res/layout/activity_main.xml" value="0.3020833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
